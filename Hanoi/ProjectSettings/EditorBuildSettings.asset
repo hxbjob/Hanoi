@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/Menu.unity
+    guid: 5e5c23ccc9c9a9a4087883cf61be5e66
+  - enabled: 1
+    path: Assets/01.Scenes/Level.unity
+    guid: 582d9524c5148214583742f59ea19c58
+  - enabled: 1
+    path: Assets/01.Scenes/Hanoi1.unity
+    guid: 95ed9e1303b29c449be242de5155e7eb
+  - enabled: 1
+    path: Assets/01.Scenes/Hanoi2.unity
+    guid: d3fa29798f5f82c4c9b3dfd8e67e9578
+  - enabled: 1
+    path: Assets/01.Scenes/Hanoi3.unity
+    guid: f1955b9fe5edf2348acf615223e87a25
+  - enabled: 1
+    path: Assets/01.Scenes/Hanoi4.unity
+    guid: aac4edcb0c09f354584321f68df9348b
+  - enabled: 1
+    path: Assets/01.Scenes/Hanoi5.unity
+    guid: 5dc13cd05611d7c41a74603762668eec
+  - enabled: 1
+    path: Assets/01.Scenes/Hanoi6.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects: {}
